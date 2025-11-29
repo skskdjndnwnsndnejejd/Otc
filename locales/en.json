@@ -1,0 +1,12 @@
+{
+  "welcome": "🕊 <b>Welcome, {username}!</b>\n\nWe are pleased to have you in Gift Castle — a premium escrow service where every transaction is handled with meticulous care and secure custody of funds. Our mission is to provide transparent, reliable, and calm processing of trades so both parties can proceed safely. Choose an action below to get started.",
+  "lang_choose": "🌐 Choose language",
+  "seller_role": "🏰 <b>Role: Seller</b>\n\nPlease provide a concise and meaningful product title followed by a detailed description. Once that is done you will be asked to input a price using the numeric keypad. Provide truthful and complete information so the buyer understands exactly what they purchase.",
+  "buyer_role": "🛍 <b>Role: Buyer</b>\n\nEnter the deal number like #A1234 to view the full offer card. After reviewing, you can join the deal — the required amount will be held in escrow until the seller confirms delivery.",
+  "deal_created": "💎 <b>Deal {id} successfully created!</b>\n\nThank you for listing. Share the deal number with the buyer. All confirmations and follow-ups will be managed in Gift Castle ensuring clarity and minimized risk for both parties.",
+  "deal_joined": "🤝 <b>You have joined deal {id}!</b>\n\nFunds have been deducted from your internal balance and are held in escrow until delivery confirmation. Please wait for seller instructions or support intervention if necessary.",
+  "deal_complete": "✅ <b>Deal {id} completed!</b>\n\nCongratulations — the funds have been successfully released to the seller. Thank you for using Gift Castle for secure, reliable trading agreements.",
+  "balance": "💰 <b>Your balance:</b> {balance} TON\n\nThis internal balance is used for initiating deals and locking funds in escrow. To withdraw funds, contact support.",
+  "help": "⚜️ For support, contact: @GiftCastleRelayer",
+  "admin_log": "⚜️ <b>Gift Castle | Completed Deal</b>\n\n✅ Deal {id} completed.\n\n<b>• Seller:</b> {seller}\n<b>• Buyer:</b> {buyer}\n<b>• Amount:</b> {sum} TON\n<b>• Date:</b> {date}"
+}
